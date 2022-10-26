@@ -16,6 +16,7 @@ Domains:
 <li>Real estate</li>
 </ul>
 
+Technologies: 
 <ul>
   <li>PHP(Laravel, Symfony, Codeignitor)</li>
   <li>JS(Jquery, Vue.js, React)</li>
